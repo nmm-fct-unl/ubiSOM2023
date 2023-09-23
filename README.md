@@ -1,4 +1,5 @@
 # Exploratory Cluster Analysis using Self-Organizing Maps
+
 Complementary materials and source code to the examples provided in the book chapter "Exploratory Cluster Analysis using Self-Organizing Maps"
 
 
