@@ -17,4 +17,4 @@ The files in this folder are the following:
 
 The source code for examples and for some of the Libraries is available with the free MIT Licence. Complete source code is under development, but available for research purposes. Please contact the authors if you are interested in helping to develop this project.
 
-<mailto:nmm@fct.unl.pt>
+[Prof. Nuno Marques](mailto:nmm@fct.unl.pt?subject=[GitHub]%20MultiSOM)
