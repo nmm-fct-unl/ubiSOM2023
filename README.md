@@ -18,7 +18,7 @@ The files in this folder are the following:
   - multiSOM_PDE - The processing PDE folder containing the processing example and data for using the multiSOM library. The multiSOM library was already published and presented in [MarquesSantosSilva2016].
  - results - Folder with the output files for the results presented in the chapter.
 
-The source code for examples and for some of the Libraries is available with the free MIT Licence. Complete source code is under development, but available for research purposes. Please contact the authors if you are interested in helping to develop this project.
+The source code for examples and for some Java classes for the Libraries are available with the free MIT Licence. Complete source code is under development, but available for research purposes. Please contact the authors if you are interested in helping to develop this project.
 
 [Prof. Nuno Marques](mailto:nmm@fct.unl.pt?subject=[GitHub]MultiSOM)
 
