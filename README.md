@@ -30,7 +30,7 @@ The source code for examples and for some Java classes for the Libraries are ava
 
 Copy the supplied files to a folder on your computer, adjust folder names in plot.py. You may finetune configuartion paramethers in wine.mSOM and prototypes.py. Start processing with sketch multiSOM_P2.pde. Please adjust processing render and assure you have the provided libraries available and proper folder names.
 
-*WARNING:* This is still an early release, tested on a m2 macOS.
+*WARNING:* This is still an early release, tested on a m2 macOS with processing 4.2.
 
 ## References
 
