@@ -16,6 +16,7 @@ The files in this folder are the following:
   - exemplos/wine.csv - A normalised copy of the Wine dataset <https://archive.ics.uci.edu/dataset/109/wine>.
   - code/neuralnetworks.jar - The second edition of the ubiSOM library. The ubiSOM library was already published and presented in [SilvaMarques,2015].
   - code/multiSOM.jar - multiSOM library for running this example. This code is under development and is made available for enabling multiSOM calls in processing Sketch. Source code is available uppon contacting the authors. The multiSOM library was already published and presented in [MarquesSantosSilva2016].
+  - data/* - The processing data folder. It will be used for storing output files. Some pre-generated processing font files are included.
   - multiSOM_P2.pde - The processing PDE sketch containing the example for using the multiSOM library in processing.
   - wine.mSOM - Configuration script for multiSOM.
   - prototypes.py, plot.py - Ilustrative python scripts called inside multiSOM example script. Some folder names may need correction. 
