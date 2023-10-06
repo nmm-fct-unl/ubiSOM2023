@@ -25,7 +25,9 @@ The source code for examples and for some Java classes for the Libraries are ava
 
 [Prof. Nuno Marques](mailto:nmm@fct.unl.pt?subject=[GitHub]MultiSOM)
 
+## Instalation
 
+Copy the supplied files to a folder on your computer, adjust folder names in plot.py. You may finetune configuartion paramethers in wine.mSOM and prototypes.py. Start processing with multiSOM_P2.pde, assuring you have the provided libraries available. 
 ## References
 
 Silva, B., & Marques, N. (2015). The ubiquitous self-organizing map for non-stationary data streams. Journal of Big Data.
