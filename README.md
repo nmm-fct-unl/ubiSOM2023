@@ -20,7 +20,6 @@ The files in this folder are the following:
   - multiSOM_P2.pde - The processing PDE sketch containing the example for using the multiSOM library in processing.
   - wine.mSOM - Configuration script for multiSOM.
   - prototypes.py, plot.py - Ilustrative python scripts called inside multiSOM example script. Some folder names may need correction. 
-  - results - Folder with the output files for the results presented in the chapter.
 
 The source code for examples and for some Java classes for the Libraries are available with the free MIT Licence. Complete source code is under development, but available for research purposes. Please contact the authors if you are interested in helping to develop this project.
 
