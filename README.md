@@ -13,8 +13,9 @@ Available in a separate github site <https://github.com/brunomnsilva/UbiquitousN
 
 The files in this folder are the following:
 
-  - wine.csv - A normalised copy of the Wine dataset <https://archive.ics.uci.edu/dataset/109/wine>.
-  - ubiSOM2.jar - The second edition of the ubiSOM library. The ubiSOM library was already published and presented in [SilvaMarques,2015].
+  - exemplos/wine.csv - A normalised copy of the Wine dataset <https://archive.ics.uci.edu/dataset/109/wine>.
+  - code/neuralnetworks.jar - The second edition of the ubiSOM library. The ubiSOM library was already published and presented in [SilvaMarques,2015].
+  - code/multiSOM.jar - multiSOM library for running this example. This code is under development and is made available for enabling multiSOM calls in processing Sketch. Source code is available uppon contacting the authors.
   - multiSOM_PDE - The processing PDE folder containing the processing example and data for using the multiSOM library. The multiSOM library was already published and presented in [MarquesSantosSilva2016].
  - results - Folder with the output files for the results presented in the chapter.
 
