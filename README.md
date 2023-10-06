@@ -13,21 +13,21 @@ The full framework is available in a separate github site <https://github.com/br
 
 The files in this folder are the following:
 
-  - exemplos/wine.csv - A normalised copy of the Wine dataset <https://archive.ics.uci.edu/dataset/109/wine>.
+  - exemplos/wine.csv - A normalized copy of the Wine dataset <https://archive.ics.uci.edu/dataset/109/wine>.
   - code/neuralnetworks.jar - The second edition of the ubiSOM library. The ubiSOM library was already published and presented in [SilvaMarques,2015].
-  - code/multiSOM.jar - multiSOM library for running this example. This code is under development and is made available for enabling multiSOM calls in processing Sketch. Source code is available uppon contacting the authors. The multiSOM library was already published and presented in [MarquesSantosSilva2016].
-  - data/* - The processing data folder. It will be used for storing output files. Some pre-generated processing font files are included.
-  - multiSOM_P2.pde - The processing PDE sketch containing the example for using the multiSOM library in processing.
+  - code/multiSOM.jar - multiSOM library for running this example. This code is under development and is made available for enabling multiSOM calls in Processing Sketch. Source code is available upon contacting the authors. The multiSOM library was already published and presented in [MarquesSantosSilva2016].
+  - data/* - The Processing data folder.  It will be used for storing output files. Some pre-generated processing font files are included.
+  - multiSOM_P2.pde - The Processing PDE sketch containing the example for using the multiSOM library in Processing.
   - wine.mSOM - Configuration script for multiSOM.
-  - prototypes.py, plot.py - Ilustrative python scripts called inside multiSOM example script. Some folder names may need correction. 
+  - prototypes.py, plot.py - Illustrative Python scripts called inside multiSOM example script. Some folder names may need correction. 
 
 The source code for examples and for some Java classes for the Libraries are available with the free MIT Licence. Complete source code is under development, but available for research purposes. Please contact the authors if you are interested in helping to develop this project: [Prof. Nuno Marques](mailto:nmm@fct.unl.pt?subject=[GitHub]MultiSOM)
 
 ## Instalation
 
-Copy the supplied files to a folder on your computer, adjust folder names in plot.py. You may finetune configuartion paramethers in wine.mSOM and prototypes.py. Start processing with sketch multiSOM_P2.pde. Please adjust processing render and assure you have the provided libraries available and proper folder names.
+Copy the provided files to a directory on your computer and modify folder names in plot.py as necessary. You can further customize configuration parameters in wine.mSOM and prototypes.py. Open the Processing.org IDE by running the sketch multiSOM_P2.pde. Ensure that your Processing.org render settings are adjusted correctly and that you have the required libraries installed, along with accurate folder names.
 
-*WARNING:* This is still an early release, tested on a m2 macOS with processing 4.2.
+*CAUTION:* Please note that this is an early release and has been tested on macOS M2 with Processing version 4.2. If you don't have Processing.org installed, make sure to install it before proceeding.
 
 ## References
 
