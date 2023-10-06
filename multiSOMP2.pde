@@ -1,4 +1,4 @@
-import processing.javafx.*; //<>//
+//import processing.javafx.*; //<>//
 
 // Illustrative example for using MultiSOM / ubiSOM in Processing.org v4.2
 //
