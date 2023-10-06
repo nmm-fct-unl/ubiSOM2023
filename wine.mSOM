@@ -1,0 +1,22 @@
+# multiSOM : comandos iniciais
+
+print Configurar e ler csv wine (completo):
+set SOMGrid on
+
+set csv exemplos/wine1000.csv
+
+colordim 0
+get csv
+
+set framerate 1080
+
+colorDim 0
+transformx 272 1659 711 492 748 6228 9899 3007 4949 0 4274 314 342
+transformy 7758 3173 4414 985 1163 2314 580 7511 978 10000 3136 1137 2263
+
+step 1800
+
+set framerate 20
+
+step 300000
+set pause on
