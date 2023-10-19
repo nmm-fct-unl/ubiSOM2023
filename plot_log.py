@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 import sys
 
 
+# force same folder for data and script (usually it is 
+# the processing folder)
+import os
+os.chdir(os.path.dirname(__file__))
 
 size_avg = int(sys.argv[1])
 num_lines = int(sys.argv[2])

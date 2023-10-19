@@ -4,6 +4,11 @@ import gzip
 import sys
 
 
+# force same folder for data and script (usually it is 
+# the processing folder)
+import os
+os.chdir(os.path.dirname(__file__))
+
 
 som_cols = 40
 som_lines = 20
