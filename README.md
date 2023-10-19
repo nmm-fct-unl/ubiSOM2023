@@ -31,5 +31,6 @@ Copy the provided files to a directory "multiSOMP2" on your computer and modify 
 
 ## References
 
-Silva, B., & Marques, N. (2015). The ubiquitous self-organizing map for non-stationary data streams. Journal of Big Data.
-Marques, N. C., Silva, B., & Santos, H. (2016, July). An interactive interface for multi-dimensional data stream analysis. In 2016 20th International Conference Information Visualisation (IV) (pp. 223-229). IEEE.
+Silva, B., & Marques, N. (2015). The ubiquitous self-organizing map for non-stationary data streams. Journal of Big Data. <https://doi.org/10.1186/s40537-015-0033-0>.
+
+Marques, N. C., Silva, B., & Santos, H. (2016, July). An interactive interface for multi-dimensional data stream analysis. In 2016 20th International Conference Information Visualisation (IV) (pp. 223-229). IEEE. <https://doi.org/10.1109/IV.2016.72>.
