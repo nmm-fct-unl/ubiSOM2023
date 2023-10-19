@@ -2,7 +2,7 @@
 
 # Exploratory Cluster Analysis using Self-Organizing Maps
 
-Complementary materials and source code to the examples provided in the book chapter "Exploratory Cluster Analysis using Self-Organizing Maps": <https://www.igi-global.com/book/philosophy-artificial-intelligence-its-place/319683>.
+Complementary materials and source code to the examples provided in the book chapter "Exploratory Cluster Analysis using Self-Organizing Maps": <https://www.igi-global.com/chapter/exploratory-cluster-analysis-using-self-organizing-maps/332606>.
 
 
 ## Java Neural Networks Framework
