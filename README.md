@@ -27,7 +27,7 @@ The source code for examples and for some Java classes for the Libraries are ava
 
 Copy the provided files to a directory "multiSOMP2" on your computer and modify folder names in plot.py as necessary. You can further customize configuration parameters in wine.mSOM and prototypes.py. Open the Processing.org IDE by running the sketch multiSOM_P2.pde. Ensure that your Processing.org render settings are adjusted correctly and that you have the required libraries installed, along with accurate folder names.
 
-*CAUTION:* Please note that this is an early release. It has only been tested on macOS (M2 and Intel) with Processing version 4.2 or 4.3. If you don't have Processing.org installed, make sure to install it before proceeding. Before python scripts can be executed, the file multisom.properties must point to the correct version of the python interpeter.
+*CAUTION:* Please note that this is an early release. It has been tested on Linux (Ubuntu 20.04), macOS (M2 and Intel) with Processing version 4.2 or 4.3. If you don't have Processing.org installed, make sure to install it before proceeding. Before python scripts can be executed, the file multisom.properties must point to the correct version of the python interpeter.
 
 ## References
 
